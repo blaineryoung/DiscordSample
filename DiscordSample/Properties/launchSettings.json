@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiscordSample": {
+      "commandName": "Project",
+      "commandLineArgs": "token.txt"
+    }
+  }
+}
